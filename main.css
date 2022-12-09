@@ -34,4 +34,12 @@ h3 {
 
 input {
     margin-right: 5px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.button {
+    border: 1px solid transparent;
+    border-radius: 7px;
+    font: 'Raleway', sans-serif;
 }
