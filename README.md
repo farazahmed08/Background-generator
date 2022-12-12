@@ -1,4 +1,4 @@
 # Background-generator
 
 Live Demo
-living-salt.surge.sh
+https://randombackgroundcolorgenerator.netlify.app
